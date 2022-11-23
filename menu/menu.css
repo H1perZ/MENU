@@ -1,0 +1,76 @@
+.gora {
+    background-color: #4F2F82;
+    width: 100%;
+    height: 60px;
+    margin: -10px;
+
+
+}
+.Docs {
+    margin-top: -57px;
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+    
+}
+.Examples {
+    margin-top: -23px;
+    margin-left: 120px;
+    font-size: 20px;
+    color: white;
+
+}
+.Icons {
+    margin-top: -23px;
+    margin-left: 230px;
+    font-size: 20px;
+    color: white;
+}
+.Themes {
+    margin-top: -23px;
+    margin-left: 300px;
+    font-size: 20px;
+    color: white;
+}
+.Blog {
+    margin-top: -23px;
+    margin-left: 390px;
+    font-size: 20px;
+    color: white;
+}
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+ol, ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.dol {
+    background-color: whitesmoke;
+    width: 100%;
+    height: 250px;
+    margin-top: 1500px;
+}
+.Docs2 {
+    color:black;
+    
+}
+.links {
+    margin-left: 150px;
+    font-size: 12px;
+    padding: 8px;
+}
+.links2 {
+    margin-left: 320px;
+    font-size: 12px;
+    padding: 8px;
+    margin-top: -60px;
+
+    
+    
+   
+    
+}
